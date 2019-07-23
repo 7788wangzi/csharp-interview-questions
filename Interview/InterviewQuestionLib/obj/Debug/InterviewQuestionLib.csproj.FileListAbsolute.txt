@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\bin\Debug\InterviewQuestionLib.exe.config
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\bin\Debug\InterviewQuestionLib.exe
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\bin\Debug\InterviewQuestionLib.pdb
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\obj\Debug\InterviewQuestionLib.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\obj\Debug\InterviewQuestionLib.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\obj\Debug\InterviewQuestionLib.exe
+D:\CodeLibrary\2019\Interview\InterviewQuestionLib\obj\Debug\InterviewQuestionLib.pdb

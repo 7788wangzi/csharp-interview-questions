@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+D:\CodeLibrary\2019\Interview\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+D:\CodeLibrary\2019\Interview\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+D:\CodeLibrary\2019\Interview\PalindromeNumber\obj\Debug\PalindromeNumber.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+D:\CodeLibrary\2019\Interview\PalindromeNumber\obj\Debug\PalindromeNumber.pdb

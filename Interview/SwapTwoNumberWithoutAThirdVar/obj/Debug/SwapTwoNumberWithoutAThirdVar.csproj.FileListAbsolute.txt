@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\bin\Debug\SwapTwoNumberWithoutAThirdVar.exe.config
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\bin\Debug\SwapTwoNumberWithoutAThirdVar.exe
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\bin\Debug\SwapTwoNumberWithoutAThirdVar.pdb
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\obj\Debug\SwapTwoNumberWithoutAThirdVar.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\obj\Debug\SwapTwoNumberWithoutAThirdVar.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\obj\Debug\SwapTwoNumberWithoutAThirdVar.exe
+D:\CodeLibrary\2019\Interview\SwapTwoNumberWithoutAThirdVar\obj\Debug\SwapTwoNumberWithoutAThirdVar.pdb

@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\bin\Debug\PascalTriangleProgram.exe.config
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\bin\Debug\PascalTriangleProgram.exe
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\bin\Debug\PascalTriangleProgram.pdb
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\obj\Debug\PascalTriangleProgram.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\obj\Debug\PascalTriangleProgram.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\obj\Debug\PascalTriangleProgram.exe
+D:\CodeLibrary\2019\Interview\PascalTriangleProgram\obj\Debug\PascalTriangleProgram.pdb

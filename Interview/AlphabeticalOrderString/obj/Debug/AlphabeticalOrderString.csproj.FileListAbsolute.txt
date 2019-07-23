@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\bin\Debug\AlphabeticalOrderString.exe.config
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\bin\Debug\AlphabeticalOrderString.exe
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\bin\Debug\AlphabeticalOrderString.pdb
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\obj\Debug\AlphabeticalOrderString.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\obj\Debug\AlphabeticalOrderString.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\obj\Debug\AlphabeticalOrderString.exe
+D:\CodeLibrary\2019\Interview\AlphabeticalOrderString\obj\Debug\AlphabeticalOrderString.pdb

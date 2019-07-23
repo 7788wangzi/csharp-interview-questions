@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\bin\Debug\Count1InAGivenNumber.exe.config
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\bin\Debug\Count1InAGivenNumber.exe
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\bin\Debug\Count1InAGivenNumber.pdb
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\obj\Debug\Count1InAGivenNumber.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\obj\Debug\Count1InAGivenNumber.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\obj\Debug\Count1InAGivenNumber.exe
+D:\CodeLibrary\2019\Interview\Count1InAGivenNumber\obj\Debug\Count1InAGivenNumber.pdb

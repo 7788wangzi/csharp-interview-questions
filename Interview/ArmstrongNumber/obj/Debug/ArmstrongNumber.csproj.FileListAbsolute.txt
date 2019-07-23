@@ -1,0 +1,7 @@
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\obj\Debug\ArmstrongNumber.csprojAssemblyReference.cache
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
+D:\CodeLibrary\2019\Interview\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb
